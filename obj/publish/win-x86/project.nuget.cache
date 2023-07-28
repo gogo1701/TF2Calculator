@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8yegoZezTblSNdTgL1sDHPet+wpl7ofJT75hq0Jf4672Dgi0SkdETmN2ZQ3+kgmsN1vv1RBRULMVV7+J+Sw9w==",
+  "success": true,
+  "projectFilePath": "F:\\scrapcalculator\\RefinedCalculator\\RefinedCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GogoPC\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.1\\microsoft.netcore.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\GogoPC\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\GogoPC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x86.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

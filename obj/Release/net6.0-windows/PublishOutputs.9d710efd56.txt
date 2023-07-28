@@ -1,0 +1,5 @@
+F:\scrapcalculator\RefinedCalculator\bin\Release\net6.0-windows\publish\RefinedCalculator.exe
+F:\scrapcalculator\RefinedCalculator\bin\Release\net6.0-windows\publish\RefinedCalculator.dll
+F:\scrapcalculator\RefinedCalculator\bin\Release\net6.0-windows\publish\RefinedCalculator.deps.json
+F:\scrapcalculator\RefinedCalculator\bin\Release\net6.0-windows\publish\RefinedCalculator.runtimeconfig.json
+F:\scrapcalculator\RefinedCalculator\bin\Release\net6.0-windows\publish\RefinedCalculator.pdb
